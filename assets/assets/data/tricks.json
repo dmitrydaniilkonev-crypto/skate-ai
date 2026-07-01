@@ -1,0 +1,1810 @@
+﻿[
+    {
+        "id":  "1",
+        "name":  "Pop Shuvit",
+        "difficulty":  1,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "2",
+        "name":  "FS Pop Shuvit",
+        "difficulty":  3,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "3",
+        "name":  "Fakie Pop Shuvit",
+        "difficulty":  1,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "4",
+        "name":  "Fakie FS Pop Shuvit",
+        "difficulty":  1,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "5",
+        "name":  "FS 180 Ollie",
+        "difficulty":  1,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "6",
+        "name":  "BS 180 Ollie",
+        "difficulty":  1,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "7",
+        "name":  "Fakie FS 180 Ollie",
+        "difficulty":  1,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "8",
+        "name":  "Fakie BS 180 Ollie",
+        "difficulty":  1,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "9",
+        "name":  "Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "10",
+        "name":  "Fakie Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "11",
+        "name":  "Switch Pop Shuvit",
+        "difficulty":  3,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "12",
+        "name":  "Switch FS Pop Shuvit",
+        "difficulty":  2,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "13",
+        "name":  "Nollie Pop Shuvit",
+        "difficulty":  2,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "14",
+        "name":  "Nollie FS Pop Shuvit",
+        "difficulty":  2,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "15",
+        "name":  "FS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "16",
+        "name":  "BS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "17",
+        "name":  "Fakie FS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "18",
+        "name":  "Fakie BS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "19",
+        "name":  "Switch FS 180 Ollie",
+        "difficulty":  2,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "20",
+        "name":  "Switch BS 180 Ollie",
+        "difficulty":  3,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "21",
+        "name":  "Nollie FS 180 Ollie",
+        "difficulty":  2,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "22",
+        "name":  "Nollie BS 180 Ollie",
+        "difficulty":  2,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "23",
+        "name":  "FS Bigspin",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "24",
+        "name":  "BS Bigspin",
+        "difficulty":  4,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "25",
+        "name":  "Fakie FS Bigspin",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "26",
+        "name":  "Fakie BS Bigspin",
+        "difficulty":  2,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "27",
+        "name":  "FS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "28",
+        "name":  "BS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "29",
+        "name":  "Fakie FS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "30",
+        "name":  "Fakie BS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "31",
+        "name":  "Kickflip",
+        "difficulty":  3,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "32",
+        "name":  "Heelflip",
+        "difficulty":  3,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "33",
+        "name":  "360 Shuvit",
+        "difficulty":  3,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "34",
+        "name":  "Switch Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "35",
+        "name":  "Nollie Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "36",
+        "name":  "Switch FS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "37",
+        "name":  "Switch BS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "38",
+        "name":  "Nollie FS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "39",
+        "name":  "Nollie BS 180 Ollie North",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "40",
+        "name":  "Switch FS Bigspin",
+        "difficulty":  4,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "41",
+        "name":  "Switch BS Bigspin",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "42",
+        "name":  "Nollie FS Bigspin",
+        "difficulty":  4,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "43",
+        "name":  "Nollie BS Bigspin",
+        "difficulty":  2,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "44",
+        "name":  "Switch FS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "45",
+        "name":  "Switch BS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "46",
+        "name":  "Nollie FS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "47",
+        "name":  "Nollie BS Pop Shuvit Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "48",
+        "name":  "Fakie Kickflip",
+        "difficulty":  3,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "49",
+        "name":  "Fakie Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "50",
+        "name":  "Fakie 360 Shuvit",
+        "difficulty":  2,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "51",
+        "name":  "Switch Kickflip",
+        "difficulty":  4,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "52",
+        "name":  "Switch Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "53",
+        "name":  "Switch 360 Shuvit",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "54",
+        "name":  "Nollie Kickflip",
+        "difficulty":  4,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "55",
+        "name":  "Nollie Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "56",
+        "name":  "Nollie 360 Shuvit",
+        "difficulty":  3,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "57",
+        "name":  "FS 180 Kickflip",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "58",
+        "name":  "BS 180 Kickflip",
+        "difficulty":  4,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "59",
+        "name":  "FS 180 Heelflip",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "60",
+        "name":  "BS 180 Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "61",
+        "name":  "FS 360 Ollie",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "62",
+        "name":  "BS 360 Ollie",
+        "difficulty":  4,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "63",
+        "name":  "Kickflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "64",
+        "name":  "Heelflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "65",
+        "name":  "Varial Kickflip",
+        "difficulty":  3,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "66",
+        "name":  "Varial Heelflip",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "67",
+        "name":  "Fakie FS 180 Kickflip",
+        "difficulty":  5,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "68",
+        "name":  "Fakie BS 180 Kickflip",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "69",
+        "name":  "Fakie FS 180 Heelflip",
+        "difficulty":  5,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "70",
+        "name":  "Fakie BS 180 Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "71",
+        "name":  "Switch FS 180 Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "72",
+        "name":  "Switch BS 180 Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "73",
+        "name":  "Switch FS 180 Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "74",
+        "name":  "Switch BS 180 Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "75",
+        "name":  "Nollie FS 180 Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "76",
+        "name":  "Nollie BS 180 Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "77",
+        "name":  "Nollie FS 180 Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "78",
+        "name":  "Nollie BS 180 Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "79",
+        "name":  "Fakie FS 360 Ollie",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "80",
+        "name":  "Fakie BS 360 Ollie",
+        "difficulty":  3,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "81",
+        "name":  "Switch FS 360 Ollie",
+        "difficulty":  5,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "82",
+        "name":  "Switch BS 360 Ollie",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "83",
+        "name":  "Nollie FS 360 Ollie",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "84",
+        "name":  "Nollie BS 360 Ollie",
+        "difficulty":  3,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "85",
+        "name":  "Impossible",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "86",
+        "name":  "Pressure Flip",
+        "difficulty":  5,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "87",
+        "name":  "FS Gazelle Spin",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "88",
+        "name":  "BS Gazelle Spin",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "89",
+        "name":  "Switch Kickflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "90",
+        "name":  "Switch Heelflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "91",
+        "name":  "Nollie Kickflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "92",
+        "name":  "Nollie Heelflip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "93",
+        "name":  "Hardflip",
+        "difficulty":  6,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "94",
+        "name":  "Inward Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "95",
+        "name":  "Fakie Varial Kickflip",
+        "difficulty":  3,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "96",
+        "name":  "Fakie Varial Heelflip",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "97",
+        "name":  "Switch Varial Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "98",
+        "name":  "Switch Varial Heelflip",
+        "difficulty":  5,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "99",
+        "name":  "Nollie Varial Kickflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "100",
+        "name":  "Nollie Varial Heelflip",
+        "difficulty":  5,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "101",
+        "name":  "Fakie Impossible",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "102",
+        "name":  "Fakie Pressure Flip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "103",
+        "name":  "Switch Impossible",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "104",
+        "name":  "Switch Pressure Flip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "105",
+        "name":  "Nollie Impossible",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "106",
+        "name":  "Nollie Pressure Flip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "107",
+        "name":  "Fakie FS Gazelle Spin",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "108",
+        "name":  "Fakie BS Gazelle Spin",
+        "difficulty":  6,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "109",
+        "name":  "Switch FS Gazelle Spin",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "110",
+        "name":  "Switch BS Gazelle Spin",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "111",
+        "name":  "Nollie FS Gazelle Spin",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "112",
+        "name":  "Nollie BS Gazelle Spin",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "113",
+        "name":  "Inward Heelflip FS 180",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "114",
+        "name":  "Forward Flip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "115",
+        "name":  "Casper Flip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "116",
+        "name":  "Tre Flip",
+        "difficulty":  4,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "117",
+        "name":  "Fakie Hardflip",
+        "difficulty":  6,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "118",
+        "name":  "Fakie Inward Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "119",
+        "name":  "Switch Hardflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "120",
+        "name":  "Switch Inward Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "121",
+        "name":  "Nollie Hardflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "122",
+        "name":  "Nollie Inward Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "123",
+        "name":  "Fakie Inward Heelflip FS 180",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "124",
+        "name":  "Switch Inward Heelflip FS 180",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "125",
+        "name":  "Nollie Inward Heelflip FS 180",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "126",
+        "name":  "Fakie Forward Flip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "127",
+        "name":  "Fakie Casper Flip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "128",
+        "name":  "Switch Forward Flip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "129",
+        "name":  "Switch Casper Flip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "130",
+        "name":  "Nollie Forward Flip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "131",
+        "name":  "Nollie Casper Flip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "132",
+        "name":  "FS Bigflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "133",
+        "name":  "FS Big Heel",
+        "difficulty":  6,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "134",
+        "name":  "FS 180 Inward Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "135",
+        "name":  "BS Bigflip",
+        "difficulty":  6,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "136",
+        "name":  "BS Big Heel",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "137",
+        "name":  "BS 180 Hardflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "138",
+        "name":  "BS 180 Inward Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "139",
+        "name":  "Laser Flip",
+        "difficulty":  6,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "140",
+        "name":  "Fakie Tre Flip",
+        "difficulty":  3,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "141",
+        "name":  "Switch Tre Flip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "142",
+        "name":  "Nollie Tre Flip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "143",
+        "name":  "FS Gazelle Flip",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "144",
+        "name":  "BS Gazelle Flip",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "145",
+        "name":  "Tre Flip Body Varial",
+        "difficulty":  8,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "146",
+        "name":  "Fakie FS Bigflip",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "147",
+        "name":  "Fakie FS Big Heel",
+        "difficulty":  6,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "148",
+        "name":  "Fakie FS 180 Hardflip",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "149",
+        "name":  "Fakie FS 180 Inward Heelflip",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "150",
+        "name":  "Fakie BS Bigflip",
+        "difficulty":  4,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "151",
+        "name":  "Fakie BS Big Heel",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "152",
+        "name":  "Fakie BS 180 Hardflip",
+        "difficulty":  8,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "153",
+        "name":  "Switch FS Bigflip",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "154",
+        "name":  "Switch FS Big Heel",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "155",
+        "name":  "Switch FS 180 Inward Heelflip",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "156",
+        "name":  "Switch BS Bigflip",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "157",
+        "name":  "Switch BS Big Heel",
+        "difficulty":  6,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "158",
+        "name":  "Switch BS 180 Hardflip",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "159",
+        "name":  "Switch BS 180 Inward Heelflip",
+        "difficulty":  8,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "160",
+        "name":  "Nollie FS Bigflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "161",
+        "name":  "Nollie FS Big Heel",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "162",
+        "name":  "Nollie FS 180 Hardflip",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "163",
+        "name":  "Nollie BS Bigflip",
+        "difficulty":  8,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "164",
+        "name":  "Nollie BS Big Heel",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "165",
+        "name":  "Nollie BS 180 Inward Heelflip",
+        "difficulty":  6,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "166",
+        "name":  "Fakie Laser Flip",
+        "difficulty":  5,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "167",
+        "name":  "Switch Laser Flip",
+        "difficulty":  9,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "168",
+        "name":  "Nollie Laser Flip",
+        "difficulty":  9,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "169",
+        "name":  "Fakie FS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "170",
+        "name":  "Fakie BS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "171",
+        "name":  "Switch FS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "172",
+        "name":  "Switch BS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "173",
+        "name":  "Nollie FS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "174",
+        "name":  "Nollie BS Gazelle Flip",
+        "difficulty":  9,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "175",
+        "name":  "FS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "176",
+        "name":  "FS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "177",
+        "name":  "BS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "178",
+        "name":  "BS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "179",
+        "name":  "Casper Flip 180",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "180",
+        "name":  "Fakie FS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "181",
+        "name":  "Fakie FS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "182",
+        "name":  "Fakie BS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "183",
+        "name":  "Fakie BS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "184",
+        "name":  "Fakie Casper Flip 180",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "185",
+        "name":  "Switch FS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "186",
+        "name":  "Switch FS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "187",
+        "name":  "Switch BS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "188",
+        "name":  "Switch BS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "189",
+        "name":  "Switch Casper Flip 180",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "190",
+        "name":  "Nollie FS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "191",
+        "name":  "Nollie FS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "192",
+        "name":  "Nollie BS 360 Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "193",
+        "name":  "Nollie BS 360 Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "194",
+        "name":  "Nollie Casper Flip 180",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "195",
+        "name":  "Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "196",
+        "name":  "Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "197",
+        "name":  "Fakie Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "198",
+        "name":  "Fakie Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "199",
+        "name":  "Switch Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "200",
+        "name":  "Switch Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "201",
+        "name":  "Nollie Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "202",
+        "name":  "Nollie Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "203",
+        "name":  "FS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "204",
+        "name":  "BS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "205",
+        "name":  "FS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "206",
+        "name":  "BS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "207",
+        "name":  "Fakie FS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "208",
+        "name":  "Fakie BS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "209",
+        "name":  "Fakie FS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "210",
+        "name":  "Fakie BS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "211",
+        "name":  "Switch FS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "212",
+        "name":  "Switch BS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "213",
+        "name":  "Switch FS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "214",
+        "name":  "Switch BS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "215",
+        "name":  "Nollie FS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "216",
+        "name":  "Nollie BS 180 Late Kickflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "217",
+        "name":  "Nollie FS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "218",
+        "name":  "Nollie BS 180 Late Heelflip",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "219",
+        "name":  "Late Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "220",
+        "name":  "Late FS Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "regular",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "221",
+        "name":  "Fakie Late Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "222",
+        "name":  "Fakie Late FS Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "fakie",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "223",
+        "name":  "Switch Late Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "224",
+        "name":  "Switch Late FS Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "switch",
+        "stanceEnd":  "fakie",
+        "category":  "flat"
+    },
+    {
+        "id":  "225",
+        "name":  "Nollie Late Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    },
+    {
+        "id":  "226",
+        "name":  "Nollie Late FS Pop Shuvit",
+        "difficulty":  7,
+        "stanceStart":  "nollie",
+        "stanceEnd":  "regular",
+        "category":  "flat"
+    }
+]

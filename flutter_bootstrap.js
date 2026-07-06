@@ -35,8 +35,22 @@ if (!window._flutter) {
 }
 _flutter.buildConfig = {"engineRevision":"4c525dac5ebe5971c5708ef73558ed8edcf4a362","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
 
-_flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "3354583003" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+
+(async function startSkateApp() {
+  if ('serviceWorker' in navigator) {
+    const hadController = navigator.serviceWorker.controller !== null;
+    const registrations = await navigator.serviceWorker.getRegistrations();
+    await Promise.all(
+      registrations.map((registration) => registration.unregister()),
+    );
+
+    const reloadKey = 'gosapp-service-worker-cleared-v1';
+    if (hadController && sessionStorage.getItem(reloadKey) !== 'true') {
+      sessionStorage.setItem(reloadKey, 'true');
+      window.location.reload();
+      return;
+    }
   }
-});
+
+  await _flutter.loader.load();
+})();

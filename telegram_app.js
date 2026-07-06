@@ -1,8 +1,19 @@
 ﻿(function () {
   'use strict';
 
+  function telegramWebApp() {
+    return window.Telegram && window.Telegram.WebApp;
+  }
+
+  window.skateTelegram = {
+    getInitData: function () {
+      var telegram = telegramWebApp();
+      return telegram ? telegram.initData || '' : '';
+    }
+  };
+
   function initializeTelegramMiniApp() {
-    var telegram = window.Telegram && window.Telegram.WebApp;
+    var telegram = telegramWebApp();
     if (!telegram || !telegram.initData) {
       return;
     }

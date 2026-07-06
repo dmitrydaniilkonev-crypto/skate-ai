@@ -75720,7 +75720,7 @@ case 6:o.ab(t.Pu).f.z1(B.MD)
 p.a9(new A.acs(p))
 case 5:case 1:return A.K(q,r)}})
 return A.L($async$nO,r)},
-M(a){var s,r=this,q=A.mb(null,B.RE),p=r.d
+M(a){var s,r=this,q=A.mb(null,B.RF),p=r.d
 if(p===$){s=r.uS()
 r.d!==$&&A.a4()
 r.d=s
@@ -75950,8 +75950,8 @@ n=i.e
 m=B.h.k(n)
 l=A.a8L(B.W,new A.aeZ(i),B.xG,B.xJ,i.r)
 k=A.a8L(B.W,new A.af_(i),B.RK,B.Rs,i.w)
-j=A.a8L(B.W,new A.af0(i),B.RG,B.Rv,i.x)
-return A.jD(g,A.fT(!0,A.Zy(A.d([f,B.fQ,e,B.ei,s,B.fQ,p,B.ei,o,B.xe,new A.z5(n,new A.af1(i),1,10,9,m,h),B.cj,l,k,j,B.xd,A.ku(B.Rz,r.a===0?h:i.ga8n())],q),B.be),B.W,!0))}}
+j=A.a8L(B.W,new A.af0(i),B.RH,B.Rw,i.x)
+return A.jD(g,A.fT(!0,A.Zy(A.d([f,B.fQ,e,B.ei,s,B.fQ,p,B.ei,o,B.xe,new A.z5(n,new A.af1(i),1,10,9,m,h),B.cj,l,k,j,B.xd,A.ku(B.RA,r.a===0?h:i.ga8n())],q),B.be),B.W,!0))}}
 A.aeR.prototype={
 $0(){var s,r=this
 if(r.b)r.a.f.B(0,r.c)
@@ -76030,7 +76030,7 @@ case 2:return A.J(o.at(-1),r)}})
 return A.L($async$qF,r)},
 a_5(a){return A.d([new A.kQ("S.K.A.T.E.","Play a letter-based game against AI.",B.D8,new A.ZJ(a)),new A.kQ("Lines","Build connected tricks into a session.",B.D9,new A.ZK(a)),new A.kQ("Daily Challenge","A personal line for today.",B.Da,new A.ZL(a)),new A.kQ("Skill Check","Replay S.K.A.T.E. and recalibrate suggestions.",B.D7,new A.ZM(this,a)),new A.kQ("Support Project","Help shape the app and keep it rolling.",B.D4,new A.ZN())],t.X5)},
 M(a){var s=null,r=this.a_5(a)
-return A.jD(A.mb(A.d([A.aqw(s,s,B.Df,s,s,new A.ZS(a),s,s,"Trick Map")],t.p),B.RJ),A.fT(!0,A.Zz(new A.ZT(r),5,B.hY,new A.ZU()),B.W,!0))}}
+return A.jD(A.mb(A.d([A.aqw(s,s,B.Df,s,s,new A.ZS(a),s,s,"Trick Map")],t.p),B.Ru),A.fT(!0,A.Zz(new A.ZT(r),5,B.hY,new A.ZU()),B.W,!0))}}
 A.ZQ.prototype={
 $1(a){var s
 A.kf()
@@ -76085,7 +76085,7 @@ M(a){var s=null,r=this.c,q=t.p
 return A.ml(A.YG(!1,!0,new A.bX(B.be,A.ir(A.d([A.Yx(r.c,A.P(a).ax.b,s,36),B.Mm,A.i3(A.iZ(A.d([A.bY(r.a,A.P(a).ok.r,s),B.xe,A.bY(r.b,A.P(a).ok.z,s)],q),B.b2,B.a3,B.av),1),B.Dh],q),B.ar,B.a3,B.av,0),s),s,!0,s,s,s,s,s,s,s,s,r.d,s,s,s,s,s,s,s),B.cB)}}
 A.nD.prototype={
 M(a){var s=null
-return A.jD(s,A.fT(!0,A.i_(new A.Ji(B.hZ,new A.en(B.yS,A.iZ(A.d([A.Yx(B.D6,A.P(a).ax.b,s,72),B.cj,A.bY("Find Your Level",A.P(a).ok.e,B.aO),B.xc,A.bY("Play a quick S.K.A.T.E. test so the app can suggest tricks that fit your current skill.",A.P(a).ok.y,B.aO),B.cj,A.bY("Missed tricks add letters. Landed tricks keep you moving.",A.P(a).ok.z,B.aO),B.Mp,A.r3(A.ku(B.RC,new A.a2i(this,a)),52,s)],t.p),B.bc,B.a3,B.cb),s),s),s,s),B.W,!0))}}
+return A.jD(s,A.fT(!0,A.i_(new A.Ji(B.hZ,new A.en(B.yS,A.iZ(A.d([A.Yx(B.D6,A.P(a).ax.b,s,72),B.cj,A.bY("Find Your Level",A.P(a).ok.e,B.aO),B.xc,A.bY("Play a quick S.K.A.T.E. test so the app can suggest tricks that fit your current skill.",A.P(a).ok.y,B.aO),B.cj,A.bY("Missed tricks add letters. Landed tricks keep you moving.",A.P(a).ok.z,B.aO),B.Mp,A.r3(A.ku(B.RD,new A.a2i(this,a)),52,s)],t.p),B.bc,B.a3,B.cb),s),s),s,s),B.W,!0))}}
 A.a2i.prototype={
 $0(){A.fP(this.b).iB(A.ie(new A.a2h(this.a),null,t.H))},
 $S:0}
@@ -76137,10 +76137,10 @@ if(p.c==null){s=1
 break}p.a9(new A.afT(p,m))
 case 4:case 1:return A.K(q,r)}})
 return A.L($async$qE,r)},
-M(a){var s,r=this,q=null,p=r.gJA(),o=A.mb(q,B.RA),n=r.y
+M(a){var s,r=this,q=null,p=r.gJA(),o=A.mb(q,B.RB),n=r.y
 if(n==null)n=r.a_c(a,p)
 else{s=t.p
-s=A.Zy(A.d([A.bY("Test Complete",A.P(a).ok.f,q),B.ci,A.ml(new A.bX(B.be,A.iZ(A.d([new A.z3(n.b,q),B.ci,B.Rw],s),B.b2,B.a3,B.av),q),q),B.ei,A.ku(B.xH,r.a.e)],s),q)
+s=A.Zy(A.d([A.bY("Test Complete",A.P(a).ok.f,q),B.ci,A.ml(new A.bX(B.be,A.iZ(A.d([new A.z3(n.b,q),B.ci,B.Rx],s),B.b2,B.a3,B.av),q),q),B.ei,A.ku(B.xH,r.a.e)],s),q)
 n=s}return A.jD(o,A.fT(!0,new A.bX(B.be,A.i_(new A.en(B.yT,n,q),q,q),q),B.W,!0))},
 a_c(a,b){var s,r,q,p,o,n=this,m=null
 if(b==null||n.gqJ().length===0)return A.i_(A.ku(B.xH,n.w?m:new A.afM(n)),m,m)
@@ -80294,19 +80294,19 @@ B.Uo=new A.TK(0,"pixel")
 B.bW=new A.mk(3,"experimentalWebParagraph")
 B.Aj=new A.mm(null,null,null,null,null,null,null)
 B.Ak=new A.uH(null,null,null,null,null,null)
-B.RD=new A.bp("Could not start the game.",null,null,null,null)
-B.Al=new A.hZ(B.X,null,null,B.RD,null)
+B.RE=new A.bp("Could not start the game.",null,null,null,null)
+B.Al=new A.hZ(B.X,null,null,B.RE,null)
 B.UB=new A.aaE(0,"material")
 B.As=new A.uL(null,null,null,null,null,null,null)
 B.eP=new A.hZ(B.X,null,null,B.As,null)
-B.Ru=new A.bp("No challenge found.",null,null,null,null)
-B.Am=new A.hZ(B.X,null,null,B.Ru,null)
-B.Rx=new A.bp("Could not load daily challenge.",null,null,null,null)
-B.An=new A.hZ(B.X,null,null,B.Rx,null)
-B.RF=new A.bp("No tricks found.",null,null,null,null)
-B.Ao=new A.hZ(B.X,null,null,B.RF,null)
-B.RI=new A.bp("Could not load trick map.",null,null,null,null)
-B.Ap=new A.hZ(B.X,null,null,B.RI,null)
+B.Rv=new A.bp("No challenge found.",null,null,null,null)
+B.Am=new A.hZ(B.X,null,null,B.Rv,null)
+B.Ry=new A.bp("Could not load daily challenge.",null,null,null,null)
+B.An=new A.hZ(B.X,null,null,B.Ry,null)
+B.RG=new A.bp("No tricks found.",null,null,null,null)
+B.Ao=new A.hZ(B.X,null,null,B.RG,null)
+B.RJ=new A.bp("Could not load trick map.",null,null,null,null)
+B.Ap=new A.hZ(B.X,null,null,B.RJ,null)
 B.Aq=new A.uK(null,null,null,null,null,null,null,null,null)
 B.cA=new A.pn(0,"none")
 B.bX=new A.pn(1,"isTrue")
@@ -80615,8 +80615,8 @@ B.CN=new A.vU(null)
 B.RL=new A.bp("Grinds",null,null,null,null)
 B.bP=new A.ac3(0,"flat")
 B.m_=new A.pO(B.RL,!1,null,null)
-B.Ry=new A.bp("Vert",null,null,null,null)
-B.m0=new A.pO(B.Ry,!1,null,null)
+B.Rz=new A.bp("Vert",null,null,null,null)
+B.m0=new A.pO(B.Rz,!1,null,null)
 B.c0=new A.mQ(0,"none")
 B.CO=new A.mQ(1,"low")
 B.f4=new A.mQ(2,"medium")
@@ -80769,8 +80769,8 @@ B.eo=new A.jK(3,"justify")
 B.aB=new A.jK(4,"start")
 B.fR=new A.jK(5,"end")
 B.EQ=s([B.bK,B.d1,B.aO,B.eo,B.aB,B.fR],A.aj("w<jK>"))
-B.RB=new A.bp("SK8",null,null,null,null)
-B.yZ=new A.hW(3,B.RB,t.lM)
+B.RC=new A.bp("SK8",null,null,null,null)
+B.yZ=new A.hW(3,B.RC,t.lM)
 B.Rt=new A.bp("SKATE",null,null,null,null)
 B.z_=new A.hW(5,B.Rt,t.lM)
 B.RN=new A.bp("SKATEBOARD",null,null,null,null)
@@ -82219,8 +82219,8 @@ B.hV=new A.aK(4e6)
 B.MC=new A.jH(B.RO,null,null,null,null,null,null,null,null,null,null,null,null,B.hV,!1,null,null,null,B.ad,null)
 B.Rm=new A.bp("Same line. Take it back.",null,null,null,null)
 B.MD=new A.jH(B.Rm,null,null,null,null,null,null,null,null,null,null,null,null,B.hV,!1,null,null,null,B.ad,null)
-B.RH=new A.bp("Could not share progress.",null,null,null,null)
-B.ME=new A.jH(B.RH,null,null,null,null,null,null,null,null,null,null,null,null,B.hV,!1,null,null,null,B.ad,null)
+B.RI=new A.bp("Could not share progress.",null,null,null,null)
+B.ME=new A.jH(B.RI,null,null,null,null,null,null,null,null,null,null,null,null,B.hV,!1,null,null,null,B.ad,null)
 B.xg=new A.za(0,"permissive")
 B.MF=new A.za(1,"normal")
 B.MG=new A.za(2,"forced")
@@ -82561,19 +82561,19 @@ B.Rp=new A.bp("Lines Setup",null,null,null,null)
 B.Rq=new A.bp("Trick Map",null,null,null,null)
 B.Rr=new A.bp("Play Again",null,null,null,null)
 B.Rs=new A.bp("Maintain Stance",null,null,null,null)
-B.Rv=new A.bp("Allow Repeats",null,null,null,null)
+B.Ru=new A.bp("GoSapp!",null,null,null,null)
+B.Rw=new A.bp("Allow Repeats",null,null,null,null)
 B.jX=new A.bp("Landed",null,null,null,null)
-B.Rw=new A.bp("Your setup is ready.",null,null,null,null)
-B.Rz=new A.bp("Start Lines",null,null,null,null)
+B.Rx=new A.bp("Your setup is ready.",null,null,null,null)
+B.RA=new A.bp("Start Lines",null,null,null,null)
 B.jY=new A.bp("Missed",null,null,null,null)
-B.RA=new A.bp("S.K.A.T.E. Test",null,null,null,null)
-B.RC=new A.bp("Start S.K.A.T.E. Test",null,null,null,null)
+B.RB=new A.bp("S.K.A.T.E. Test",null,null,null,null)
+B.RD=new A.bp("Start S.K.A.T.E. Test",null,null,null,null)
 B.xH=new A.bp("Open Main Menu",null,null,null,null)
-B.RE=new A.bp("Daily Challenge",null,null,null,null)
+B.RF=new A.bp("Daily Challenge",null,null,null,null)
 B.xI=new A.bp("Flatground",null,null,null,null)
-B.RG=new A.bp("Allow the same trick inside one line.",null,null,null,null)
+B.RH=new A.bp("Allow the same trick inside one line.",null,null,null,null)
 B.xJ=new A.bp("Extra Tricks",null,null,null,null)
-B.RJ=new A.bp("Skate AI",null,null,null,null)
 B.RK=new A.bp("Connect each trick to the previous landing.",null,null,null,null)
 B.RM=new A.bp("Challenge Completed",null,null,null,null)
 B.RP=new A.bp("Start Game",null,null,null,null)
